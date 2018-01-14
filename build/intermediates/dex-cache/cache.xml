@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rohitgs/Documents/B00779758/Lab02_TimerApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/rohitgs/Documents/B00779758/Lab02_TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9dff494e79cf26e549192aa58917865ffebdcb04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohitgs/Documents/B00779758/Lab02_TimerApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a614b75a22ec8aa06b5860d894cc0ef10ba6022">
+        <dex dex="/Users/rohitgs/Documents/B00779758/Lab02_TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b40960076284e68d4df7b607b5bec1754fcca0b2/classes.dex" />
+    </item>
+
+</items>
